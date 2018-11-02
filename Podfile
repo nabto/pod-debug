@@ -1,4 +1,4 @@
-project 'PodDebug.xcodeproj/'
+project 'PodDebug/PodDebug.xcodeproj/'
 platform :ios, '11.0'
 
 target 'PodDebug' do
